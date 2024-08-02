@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive Programming.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ? Email me at bb1230421@iitd.ac.in
+- 📫 How to reach me ? Email me at ee3230421@iitd.ac.in
 
 <!---
 ramann696/ramann696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
