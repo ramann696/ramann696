@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramann696
 - 👀 I’m interested in Competitive Programming.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? Email me at ee3230421@iitd.ac.in
 
